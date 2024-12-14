@@ -1,4 +1,4 @@
-[gd_scene load_steps=29 format=3 uid="uid://b5effcn8fx57f"]
+[gd_scene load_steps=29 format=3 uid="uid://dku3layx8mofr"]
 
 [ext_resource type="Texture2D" uid="uid://bbw33gyei20fe" path="res://assets/Homeless_1/Idle.png" id="1_a60dx"]
 [ext_resource type="Script" path="res://player.gd" id="1_gnrs3"]
